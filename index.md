@@ -5,7 +5,7 @@ layout: default
 ![Branching](./figures/demo.jpg)
 
 # News
-* Amount of images in each subset of **Smoke100k** are all increased to 40k now.
+* **2020-11-09** Amount of images in each subset of **Smoke100k** are all increased to 40k now.
 
 ## Abstract
 
