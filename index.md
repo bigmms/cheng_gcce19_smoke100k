@@ -29,8 +29,8 @@ For more details of the dataset, please refer to the paper [Smoke 100k: A Databa
 
 ## Download
 
-* Paper [PDF, 156KB](https://ieeexplore.ieee.org/document/9015309)
-* Smoke100k [Baidu Drive] [Google Drive]
+* Paper [[PDF, 156KB]](https://ieeexplore.ieee.org/document/9015309)
+* Smoke100k [[Google Drive]] [[Baidu Drive]]
 
 ## Agreement
 * The **Smoke100k** dataset is available for non-commercial research purposes only.
