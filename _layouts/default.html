@@ -24,8 +24,14 @@
           <h2 id="project_tagline">Hsiang-Yin Cheng, Jia-Li Yin, Bo-Hao Chen, and Zhi-Min Yu</h2>
           <h2 id="project_tagline">
             Department of Computer Science and Engineering, Yuan Ze University 
-          </h2>          
+          </h2>       
           
+          {% if site.show_downloads %}
+            <section id="downloads">
+              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
+            </section>
+          {% endif %}
           
         </header>
     </div>
@@ -34,12 +40,6 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
-        {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
       </section>
     </div>
 
