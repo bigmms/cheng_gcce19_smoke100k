@@ -4,7 +4,10 @@ layout: default
 
 ![Branching](./figures/demo.jpg)
 
-# Abstract
+# News
+* Amount of images in each subset of **Smoke100k** are all increased to 40k now.
+
+## Abstract
 
 Due to the complex scenarios and the limited feature information in a single image, a precise smoke detection is much more challenging in practice. Most of previous smoke detection methods either extract textural and spatiotemporal characteristics of smoke or separate the smoke and background components of the image. However, those methods often fail in detecting smoke positions because of the limited feature information within a single image. Moreover, the task of smoke detection can be better achieved if the extra information from collected training dataset is available. One key issue is how to build a training dataset of paired smoke images and ground-truth bounding box positions for end-to-end learning. This paper proposes a large-scale benchmark image dataset to train a smoke detector. With the built dataset, experimental results demonstrate that the discriminative models can be effectively trained as the smoke detector to detect the smoldering fires precisely.
 
@@ -19,8 +22,6 @@ There are 3 subsets of synthesized smoke images for simulation of different smol
 > Smoke100k-H: samples are synthesized by smoke masks selected from the High level with fifteen kinds of angles.
 
 For more details of the dataset, please refer to the paper "Smoke 100k: A Database for Smoke Detection".
-
-Amount of images in each subset of **Smoke100k** are all increased to 40k now.
 
 ### Header 3
 
