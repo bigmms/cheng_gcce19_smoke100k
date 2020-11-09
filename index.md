@@ -27,7 +27,7 @@ For more details of the dataset, please refer to the paper [Smoke 100k: A Databa
 
 ![Branching](./figures/SampleImages.png)
 
-## Downloads
+## Download
 
 * Paper [PDF, 156KB](https://ieeexplore.ieee.org/document/9015309)
 * Smoke100k [Baidu Drive] [Google Drive]
