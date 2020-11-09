@@ -55,6 +55,6 @@ doi={10.1109/GCCE46687.2019.9015309}}
 ```
 
 ## References
-[1] B. C. Russell, A. Torralba, K. P. Murphy, and W. T. Freeman, "Labelme: A database and web-based tool for image annotation," International Journal of Computer Vision, vol. 77, no. 1, pp. 157–173, May 2008.
+[1] B. C. Russell, A. Torralba, K. P. Murphy, and W. T. Freeman, "Labelme: A database and web-based tool for image annotation," International Journal of Computer Vision (IJCV), vol. 77, no. 1, pp. 157–173, May 2008.
 
 [2] P. K. Nathan Silberman, Derek Hoiem and R. Fergus, "Indoor segmentation and support inference from rgbd images," European Conference on Computer Vision (ECCV), 2012.
