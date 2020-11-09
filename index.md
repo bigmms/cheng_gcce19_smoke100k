@@ -27,87 +27,34 @@ For more details of the dataset, please refer to the paper [Smoke 100k: A Databa
 
 ![Branching](./figures/SampleImages.png)
 
-#### Header 4
+## Downloads
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* Paper [PDF, 156KB](https://ieeexplore.ieee.org/document/9015309)
+* Smoke100k [Baidu Drive] [Google Drive]
 
-##### Header 5
+## Agreement
+* The **Smoke100k** dataset is available for non-commercial research purposes only.
+* All images of the **Smoke100k** dataset are obtained from the LabelMe dataset [1], NYU dataset [2] which are not property of BigMMS Laboratory, Yuan Ze University. The BigMMS Laboratory is not responsible for the content nor the meaning of these images.
+* You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
+* You agree not to further copy, publish or distribute any portion of the **Smoke100k** dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+* The BigMMS Laboratory reserves the right to terminate your access to the **Smoke100k** dataset at any time.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Citation
+If you find **Smoke100k** useful for your research, please cite our paper:
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+@INPROCEEDINGS{cheng_gcce19_smoke100k,  
+author={H. {Cheng} and J. {Yin} and B. {Chen} and Z. {Yu}}, 
+booktitle={IEEE 8th Global Conference on Consumer Electronics (GCCE)},   
+title={Smoke 100k: A Database for Smoke Detection},  
+year={2019}, 
+volume={}, 
+number={},  
+pages={596-597}, 
+doi={10.1109/GCCE46687.2019.9015309}}
 ```
 
-```
-The final element.
-```
+## References
+[1] B. C. Russell, A. Torralba, K. P. Murphy, and W. T. Freeman, "Labelme: A database and web-based tool for image annotation," International Journal of Computer Vision, vol. 77, no. 1, pp. 157–173, May 2008.
+
+[2] P. K. Nathan Silberman, Derek Hoiem and R. Fergus, "Indoor segmentation and support inference from rgbd images," European Conference on Computer Vision (ECCV), 2012.
