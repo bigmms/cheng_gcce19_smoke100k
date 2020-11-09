@@ -6,6 +6,7 @@ layout: default
 
 # News
 * **2020-11-09** Amount of images in each subset of **Smoke100k** are all increased to 40k now.
+* **2020-01-22** If Google Drive is not accessible, please download the dataset using [Baidu Drive]() (password: XXXX).
 
 ## Abstract
 
