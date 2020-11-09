@@ -23,22 +23,9 @@ There are 3 subsets of synthesized smoke images for simulation of different smol
 
 For more details of the dataset, please refer to the paper [Smoke 100k: A Database for Smoke Detection](https://ieeexplore.ieee.org/document/9015309).
 
-### Header 3
+## Sample Images
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+![Branching](./figures/SampleImages.png)
 
 #### Header 4
 
