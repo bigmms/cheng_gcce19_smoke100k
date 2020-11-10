@@ -64,3 +64,22 @@ doi={10.1109/GCCE46687.2019.9015309}}
 ## Contact
 
 Please contact [Hsiang-Yin Cheng](mailto:qwaszx841002@gmail.com), [Jia-Li Yin](mailto:jlyin@fzu.edu.cn), or [Bo-Hao Chen](mailto:bhchen@saturn.yzu.edu.tw) for questions about the dataset.
+
+
+<!-- Default Statcounter code for cheng_gcce19_smoke100k
+https://bigmms.github.io/cheng_gcce19_smoke100k/ -->
+<script type="text/javascript">
+var sc_project=12425948; 
+var sc_invisible=1; 
+var sc_security="1de152be"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12425948/0/1de152be/1/"
+alt="Web Analytics Made Easy -
+StatCounter"></a></div></noscript>
+<!-- End of Statcounter Code -->
