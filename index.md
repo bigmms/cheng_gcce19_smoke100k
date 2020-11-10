@@ -6,7 +6,7 @@ layout: default
 
 # News
 * **2020-11-09** Amount of images in each subset of **Smoke100k** are all increased to 40k now.
-* **2020-01-22** If Google Drive is not accessible, please download the dataset using [Baidu Drive]() (password: XXXX).
+* **2020-01-22** If Google Drive is not accessible, please download the dataset using [Baidu Drive](https://pan.baidu.com/s/1viTqeu4rdCK5CtEvtQkFug) (password: ahsz).
 
 ## Abstract
 
@@ -32,7 +32,7 @@ For more details of the dataset, please refer to the paper [Smoke 100k: A Databa
 ## Download
 
 * Paper [[PDF, 156KB]](https://ieeexplore.ieee.org/document/9015309)
-* Smoke100k [[Google Drive]](https://drive.google.com/drive/folders/1a3C010h7zzNPomMpddb74X3GffZx-R9C?usp=sharing) [[Baidu Drive]]()
+* Smoke100k [[Google Drive]](https://drive.google.com/drive/folders/1a3C010h7zzNPomMpddb74X3GffZx-R9C?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1viTqeu4rdCK5CtEvtQkFug) (password: ahsz)
 
 ## Agreement
 * The **Smoke100k** dataset is available for non-commercial research purposes only.
