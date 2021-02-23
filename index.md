@@ -90,7 +90,7 @@ StatCounter"></a></div></noscript>
   "@context" : "http://schema.org",
   "@type" : "Dataset",
   "name" : "Smoke100k",
-  "description" : "A Database for Smoke Detection",
+  "description" : "a large-scale benchmark image dataset to train a smoke detector",
   "distribution" : {
     "@type" : "DataDownload",
     "contentUrl" : "https://bigmms.github.io/cheng_gcce19_smoke100k/"
