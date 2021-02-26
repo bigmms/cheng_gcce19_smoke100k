@@ -5,8 +5,8 @@ layout: default
 ![Branching](./figures/demo.jpg)
 
 # News
-* **2020-11-09** Amount of images in each subset of **Smoke100k** are all increased to 40k now.
-* **2020-01-22** If Google Drive is not accessible, please download the dataset using [Baidu Drive](https://pan.baidu.com/s/1viTqeu4rdCK5CtEvtQkFug) (password: ahsz).
+* **2020-11-09** Amount of images in each subset of **Smoke100k** are all increased to **40k** now.
+* **2020-01-22** If Google Drive is not accessible, please download the dataset using Baidu Drive.
 
 ## Abstract
 
@@ -16,12 +16,12 @@ Due to the complex scenarios and the limited feature information in a single ima
 
 We contribute **Smoke100k** database, a large-scale smoke detection database, which has several appealing properties:
 
-- **Smoke100k** consists of 100k synthesized smoke image, smoke free image, smoke mask, and bounding box positions.
+- **Smoke100k** consists of **100k** synthesized smoke image, smoke free image, smoke mask, and bounding box positions.
 
-- There are 3 subsets of synthesized smoke images for simulation of different smoldering fires as follows:
-  - _Smoke100k-L_: samples are synthesized by smoke masks selected from the Low level with twenty kinds of angles,
-  - _Smoke100k-M_: samples are synthesized by smoke masks selected from the Middle level with eight kinds of angles,
-  - _Smoke100k-H_: samples are synthesized by smoke masks selected from the High level with fifteen kinds of angles.
+- There are **3** subsets of synthesized smoke images for simulation of different smoldering fires as follows:
+  - _Smoke100k-L_: samples are synthesized by smoke masks selected from the **Low** level with twenty kinds of angles,
+  - _Smoke100k-M_: samples are synthesized by smoke masks selected from the **Middle** level with eight kinds of angles,
+  - _Smoke100k-H_: samples are synthesized by smoke masks selected from the **High** level with fifteen kinds of angles.
 
 For more details of the dataset, please refer to the paper [Smoke 100k: A Database for Smoke Detection](https://ieeexplore.ieee.org/document/9015309).
 
